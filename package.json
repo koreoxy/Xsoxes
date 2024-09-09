@@ -1,0 +1,33 @@
+{
+  "name": "xsoxes",
+  "displayName": "xsoxes",
+  "description": "theme color dark yellow",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "publisher": "Koreoxy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koreoxy/Xsoxes"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "xsoxes",
+    "Xsoxes",
+    "dark yellow"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xsoxes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xsoxes-color-theme.json"
+      }
+    ]
+  }
+}
